@@ -1,5 +1,10 @@
 # DEVOPS
+```
 git chekcout url
-cd devops
+```sh
+
+## cd devops
+```
 mvn install 
 mvn clean install
+```sh
